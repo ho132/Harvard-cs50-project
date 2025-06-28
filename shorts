@@ -1,0 +1,7 @@
+lettersonly=True if input.isalpha() else False
+two loops for and while
+counter+=1 
+range(
+    
+)
+for x in range(0,100,2):  #if we wanna count by 2 (0,2,4...98)
